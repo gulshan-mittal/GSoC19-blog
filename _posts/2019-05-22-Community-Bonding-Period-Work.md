@@ -3,6 +3,7 @@ layout: post
 title: "Community Bonding Period Work"
 ---
 
+
 # [](#header-1)Things done during community Bonding Period:
 
 1. **Requirements elicitation** ​i.e. requirements gathering followed by analysis and validation, reviewing and articulating the needs of the analysis for incorporating new proposed features.
