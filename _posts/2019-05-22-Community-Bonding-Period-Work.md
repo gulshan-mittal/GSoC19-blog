@@ -3,8 +3,9 @@ layout: post
 title: "Community Bonding Period Work"
 ---
 
+Working during Community Period is Awesome and is a great experience to me. This post includes my work which I have done during community period bonding i.e Pre-GSoC Phase. 
 
-# [](#header-1)Things done during community Bonding Period:
+# [](#header-1)Things done during community Bonding Period
 
 1. **Requirements elicitation** ​i.e. requirements gathering followed by analysis and validation, reviewing and articulating the needs of the analysis for incorporating new proposed features.
 2. Rigorous discussion with the community on various possible workflows and implementations.
