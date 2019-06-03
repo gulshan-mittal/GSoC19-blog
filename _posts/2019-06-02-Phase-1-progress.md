@@ -19,4 +19,5 @@ The following features has been implemented till so far:
 
 * Addition of Admin in the experiment. Now, Admins should be able to see and access all others experiments.
 * When starting not logged in at an address such as cluos.ikw.uos.de:8000/home, the green warning is over the login and sign up buttons, so these are not accessible. Now these buttons are made accessible and the green warning now automatically fades out after some time.
-* Added "Undo" functionality for the last element in the set of annotations.  
+* Added "Undo" functionality for the last element in the set of annotations.
+* Include Video link and captions in the result export.  
