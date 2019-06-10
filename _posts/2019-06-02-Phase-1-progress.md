@@ -10,7 +10,7 @@ It is a great feeling to work on the Red Hen Rapid Annotator-2.0 Project and add
 After the community bonding period several changes has been redefined and there has been addition of two taks. The following things is decided on several deliberation with the mentors:
 1. There should a admin CRUD in the project. Admins should be able to see and access all experiments.
 2. It would be perfect to have an "export to Rapid Annotator" button in CQPweb. -&gt; Waiting for the feedback from Andrew Hardie to implement this feature.
-3. Add support for tagging Scheme is redefined. Now in the tagging scheme the annotation labels can be reused bu the user for other experiment as well. This will save user's time a lot and provide a more comprehensible way for the annotations.
+3. Add support for tagging Scheme is redefined. Now in the tagging scheme the annotation labels can be reused by the user for other experiments as well. This will save user's time a lot and provide a more comprehensible way for the annotations.
 
 
 # [](#header-2) Progress made so far
@@ -22,3 +22,4 @@ The following features has been implemented till so far:
 * Added "Undo" functionality for the last element in the set of annotations.
 * Include Video link and captions in the result export.
 * Added functionality of pausing the video with the space and again play it using the space key.
+* Added support for tagging Scheme. Now in the tagging scheme the annotation labels can be reused by the user for other experiments as well. This will save user's time a lot and provide a more comprehensible way for the annotations.
