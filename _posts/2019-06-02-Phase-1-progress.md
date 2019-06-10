@@ -61,3 +61,6 @@ The following features has been implemented till so far:
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag5.png?raw=true)
 
 * Added functionality of pausing the video with the space and again play it using the space key.
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/pause.gif?raw=true)
+
