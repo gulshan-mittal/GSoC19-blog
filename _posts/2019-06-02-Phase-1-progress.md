@@ -64,3 +64,5 @@ The following features has been implemented till so far:
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/pause.gif?raw=true)
 
+* Displating a warning, If labels are changed when the annotations have started.
+
