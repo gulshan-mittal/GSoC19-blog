@@ -66,11 +66,11 @@ The following features has been implemented till so far:
 
 * Displaying a warning, If labels are changed when the annotators have started the annotation process.
 
-    * In the following image one more spring is added to the existing labels.
+    * In the following image one more label "spring" is added to the existing labels.
 
-        ![image]((https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/changed_labels.png?raw=true))
+        ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/changed_lables.png?raw=true)
     
     * Now, the warning is shown to the annotators when they try to annotate the data.
 
-        ![image]((https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/warning_labels.png?raw=true))
+        ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/warning_labels.png?raw=true)
 
