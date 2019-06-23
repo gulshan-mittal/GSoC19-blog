@@ -14,16 +14,16 @@ After the community bonding period several changes has been redefined and there 
 
 # [](#header-2) Work Done for Evaluation 1
 
-| S. NO  | Feature Implemented | Status  |
-|---|---|---|
-| 1. |Enhancements According to User Feedback Report includes (Community Bondind Period Work)| Done ✅|
-| 2.|  Addition of Admin in the experiment. Now, Admins should be able to see and access all others experiments. |  Done ✅|
-| 3.| Resolve issue of the green warning over the login and sign up buttons | Done ✅ |
-| 4.|Added “Undo” functionality for the last element in the set of annotations.| Done ✅|
-| 5.|Include Video link and captions in the result export.| Done ✅|
-| 6.|Added support for tagging Scheme| Done ✅|
-| 7.|Added functionality of pausing the video with the space and again play it using the space key| Done ✅|
-| 8.|Displaying a warning, If labels are changed when the annotators have started the annotation process.|Done ✅|
+| S. No | Features Implemented | Status  |
+|---|-----|-----|
+| 1. |Enhancements According to User Feedback Report includes (Community Bondind Period Work)| ✅ |
+| 2.|Addition of Admin in the experiment. Now, Admins should be able to see and access all others experiments.| ✅ |
+| 3.| Resolve issue of the green warning over the login and sign up buttons | ✅ |
+| 4.|Added “Undo” functionality for the last element in the set of annotations.| ✅ |
+| 5.|Include Video link and captions in the result export.| ✅ |
+| 6.|Added support for tagging Scheme| ✅ |
+| 7.|Added functionality of pausing the video with the space and again play it using the space key| ✅ |
+| 8.|Displaying a warning, If labels are changed when the annotators have started the annotation process.| ✅ |
 | 9.|Add support for randomizing the display order| In progress|
 | 10.|Add support for partitioning the data for multiple annotators| In discussion with mentors|
 
