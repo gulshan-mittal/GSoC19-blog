@@ -59,9 +59,24 @@ The following features has been implemented till so far:
 
         ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/warning_labels.png?raw=true)
 
-    * Now, the Label Warning are also added on the Label Page.
+    * Now, the Label Warnings are also added on the Label Page.
 
         * When the User wants to edit the label
+
+            ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/labels2.png?raw=true)
+
         * When the User wants to delete the label
+
+            ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/label1.png?raw=true)
+
         * When the User wants to add more labels
-        * When the User wants to delete annotation Levels
+
+            ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/labels3.png?raw=true)
+
+        * When the User wants to delete annotation Levels.
+
+            ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/labels4.png?raw=true)
+
+* Progress bar and Progress Status is implemented on the Annotation Page. Now the user can track his/her performance. Progress Bar is looking Awesome! 
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/progress_bar.png?raw=true)
