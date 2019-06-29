@@ -23,31 +23,30 @@ After the phase 1 evaluation some features has been redefined. The following thi
 
 # [](#header-3) Progress made so far
 
-The following features has been implemented till so far:
+The following features has been implemented in Phase 2 till so far:
 
-* Added support for tagging Scheme. Now in the tagging scheme the annotation labels can be reused by the user for other experiments as well. This will save user's time a lot and provide a more comprehensible way for the annotations. Below Images are showing the tagging scheme
-    * One Global Button is added if clicked then the annotation levels of that experiment can be re-used by the user (others users also). The status of Global button is changes to Private to remove the annotations level from the import list. User can import annotation levels by clicking on **Import Existing Levels**.
-
-    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag1.png?raw=true)
-
-    * Selecting the desired levels user want.
-
-    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag2.png?raw=true)
-
-
-    * If Annotation levels imported successfully then the feedback appears to him.
+* **Added support for tagging Scheme**. Now in the tagging scheme the annotation labels can be reused by the user for other experiments as well. This will save user's time a lot and provide a more comprehensible way for the annotations. Now when user click on Make global button (Description; A button for making the experiment global so that other users can import it) then a dialog box will open in which a user can put the name (global name) for all the annotation levels that a user will while importing that annotations. I have implemented the scheme in which a user can import all the annotation levels of a particular experiment. I have done this because as a User it feels so easy to just import all the annotation levels and delete one or two according to his/her comfort. If we have done this in another way like importing single annotation level then it becomes so cumbersome to import 10 annotation levels of a single experiment and later if he needs only say 8 so the user has to do same efforts as he/she would do in other method. Below Images are showing the tagging scheme
     
-    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag3.png?raw=true)
-    
-    * If Annotation levels are already imported, then the feedback appears to him that you have already imported the levels.
-    
-    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag4.png?raw=true)
-    
-    * Now, user is able to see the annotation levels on the label page.
-    
-    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag5.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag11.png?raw=true)
 
 
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag6.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag7.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag8.png?raw=true)
+    
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag9.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag10.png?raw=true)
+
+    
+
+    
+
+    
 
 * Displaying a warning, If labels are changed when the annotators have started the annotation process.
 
