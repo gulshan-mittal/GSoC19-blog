@@ -89,18 +89,54 @@ The following features has been implemented in Phase 2 till so far:
 
 * Implemented Account Menu in nav-bar which contain Settings for Updating Information, check Progress and logout sections.
 
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/account_info.png?raw=true)
+
 * Implemented functionality to Update the Profile Information.
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/update_info1.png?raw=true)
 
 * Implemented functionality to check the progress of other annotators assigned be a user and also provide a way to check the progress of a user which is included in the experiment.
 
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/check_progress.png?raw=true)
+
 * Corrected the Bug of Displaying Names when a user is added as a Owner or as an annotator. 
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/add_annotator.png?raw=true)
 
 * Now the Display time can take Float values with the precision of .01 seconds means now the before and after time gap can be up to 0.01 seconds. 
 
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/display_time.png?raw=true)
+
 * Space Bar Cannot be used as a Key for the Annotations as it is used for pausing/playing the videos.
 
-* Registration Process is Authenticated by validating the user's email. Now an email will be sent to the user for validating the email. The user has to click on the verification link to verify his account and then only the user can login to his/her account. 
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/space_key.png?raw=true)
+
+* Registration Process is Authenticated by validating the user's email. Now an email will be sent to the user for validating the email. The user has to click on the verification link to verify his account and then only the user can login to his/her account.
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/otp_1.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/otp_2.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/otp_3.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/otp_4.png?raw=true)
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/otp_5.png?raw=true) 
 
 * Forgot Password functionality is added. Now a user has to verify his email by entering an OTP sent to his email. First the user has to enter his/her username and email address and then after an OTP is sent to the registered email. User has to enter that OTP for updating his/her password. 
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/forgot_1.png?raw=true)
+
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/forgot_2.png?raw=true)
+
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/forgot_3.png?raw=true)
+
+
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/forgot_5.png?raw=true)
+
+    
+    
 
 * All the above things have implemented with the necessary feedback, warnings and error logs. 
