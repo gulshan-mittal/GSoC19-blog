@@ -17,36 +17,43 @@ After the phase 1 evaluation some features has been redefined. The following thi
 |---|-----|-----|
 | 1. |Implemented changes suggested in Tagging Scheme|   ✅ |
 | 2.|Displaying a warning, If labels are changed when the annotators have started the annotation process. On the Label Page also.|   ✅ |
-| 3.| Implemented Progress Bar and Progress Status on the Annotation page. |   ✅ |
-
-
+| 3.| Implemented Progress Bar and Progress Status on the Annotation page. | ✅ |
+| 4. | Implemented Account Menu in nav-bar which contain Settings for Updating Information, check Progress and logout sections. | ✅ |
+| 5. | Implemented functionality to Update the Profile Information | ✅ |
+| 6. | Implemented functionality to check the progress of other annotators assigned be a user and also provide a way to check the progress of a user which is included in the experiment. | ✅ |
+| 7. | Corrected the Bug of Displaying Names when a user is added as a Owner or as an annotator. | ✅ |
+| 8. | Now the Display time can take Float values with the precision of .01 seconds. | ✅ |
+| 9. | Space Bar Cannot be used as a Key for the Annotations as it is used for pausing/playing the videos. | ✅ |
+| 10. | Registration Process is Authenticated by validating the user's email. | ✅ |
+| 11. | Forgot Password functionality is added. Now a user has to verify his email by entering an OTP sent to his email. | ✅ |
 
 # [](#header-3) Progress made so far
 
 The following features has been implemented in Phase 2 till so far:
 
 * **Added support for tagging Scheme**. Now in the tagging scheme the annotation labels can be reused by the user for other experiments as well. This will save user's time a lot and provide a more comprehensible way for the annotations. Now when user click on Make global button (Description; A button for making the experiment global so that other users can import it) then a dialog box will open in which a user can put the name (global name) for all the annotation levels that a user will while importing that annotations. I have implemented the scheme in which a user can import all the annotation levels of a particular experiment. I have done this because as a User it feels so easy to just import all the annotation levels and delete one or two according to his/her comfort. If we have done this in another way like importing single annotation level then it becomes so cumbersome to import 10 annotation levels of a single experiment and later if he needs only say 8 so the user has to do same efforts as he/she would do in other method. Below Images are showing the tagging scheme
-    
+  
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag11.png?raw=true)
 
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag6.png?raw=true)
-
-    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag7.png?raw=true)
-
-    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag8.png?raw=true)
     
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag7.png?raw=true)
+    
+    ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag8.png?raw=true)
+
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag9.png?raw=true)
-
+    
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag10.png?raw=true)
 
-    
 
-    
+​    
 
-    
+​    
+
+​    
 
 * Displaying a warning, If labels are changed when the annotators have started the annotation process.
 
@@ -79,3 +86,21 @@ The following features has been implemented in Phase 2 till so far:
 * Progress bar and Progress Status is implemented on the Annotation Page. Now the user can track his/her performance. Progress Bar is looking Awesome! 
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/progress_bar.png?raw=true)
+
+* Implemented Account Menu in nav-bar which contain Settings for Updating Information, check Progress and logout sections.
+
+* Implemented functionality to Update the Profile Information.
+
+* Implemented functionality to check the progress of other annotators assigned be a user and also provide a way to check the progress of a user which is included in the experiment.
+
+* Corrected the Bug of Displaying Names when a user is added as a Owner or as an annotator. 
+
+* Now the Display time can take Float values with the precision of .01 seconds means now the before and after time gap can be up to 0.01 seconds. 
+
+* Space Bar Cannot be used as a Key for the Annotations as it is used for pausing/playing the videos.
+
+* Registration Process is Authenticated by validating the user's email. Now an email will be sent to the user for validating the email. The user has to click on the verification link to verify his account and then only the user can login to his/her account. 
+
+* Forgot Password functionality is added. Now a user has to verify his email by entering an OTP sent to his email. First the user has to enter his/her username and email address and then after an OTP is sent to the registered email. User has to enter that OTP for updating his/her password. 
+
+* All the above things have implemented with the necessary feedback, warnings and error logs. 
