@@ -95,11 +95,11 @@ The following features has been implemented in Phase 2 till so far:
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/update_info1.png?raw=true)
 
-* Implemented functionality to check the progress of other annotators assigned be a user and also provide a way to check the progress of a user which is included in the experiment.
+* Implemented functionality to check the progress of other annotators assigned be a user and also provide a way to check the progress of a user which is included in the experiment. Now a user can select the experiment from a drop-down list and can see the progress of that experiment by all the annotators in a bar chart type graph.
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/check_progress.png?raw=true)
 
-* Corrected the Bug of Displaying Names when a user is added as a Owner or as an annotator. 
+* Corrected the Bug of Displaying Names when a user is added as a Owner or as an annotator.  Earlier Full name is displayed which is a major fault as Full name can be same for two users.
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/add_annotator.png?raw=true)
 
@@ -136,7 +136,8 @@ The following features has been implemented in Phase 2 till so far:
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/forgot_5.png?raw=true)
 
-    
-    
+
+​    
+​    
 
 * All the above things have implemented with the necessary feedback, warnings and error logs. 
