@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Phase 2 Progress"
+title: "Final Phase Progress"
 ---
 
-It is a great feeling to work on the Red Hen Rapid Annotator-2.0 Project and adding production level code in the project. This post includes all my work which will be done during the Phase 2 evaluation. This phase is directly headed towards the coding part of the project.
+It is a great feeling to work on the Red Hen Rapid Annotator-2.0 Project and adding production level code in the project. This post includes all my work which will be done during the Final Phase evaluation. This phase is directly headed towards the coding and submission part of the project. This also includes removing all the code smells and documenting all the things done so far.
 
-# [](#header-1)Decisions made post Phase 1
+# [](#header-1)Decisions made post Phase 2
 
-After the phase 1 evaluation some features has been redefined. The following things is decided on several deliberation with the mentors:
-1. There will be a warning on edit, delete and add label data modal on the Label Page. This will enable user to understand if any changes made by him/her can effect the annotations in progress.
-2. Add support for tagging Scheme is redefined.  Now there will be a Global Name for all the Annotation levels belonging to an experiment. User can import all annotation levels belonging to that Global Name. 
+After the phase 2 evaluation some features has been redefined. The following things is decided on several deliberation with the mentors:
+1. Changes in the Update Information form. Confirm password and old password field is to be added.
+2. Changes have been incorporated in the feature of Asking admin right. When the admin revoke the request of the experimenter for the admin role then the request is deleted and the user (experimenter) would again sent a request if they need admin rights.  
 
 # [](#header-2) Work Done for Evaluation 2
 
