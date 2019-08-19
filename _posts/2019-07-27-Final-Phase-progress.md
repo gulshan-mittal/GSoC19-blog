@@ -19,12 +19,12 @@ After the phase 2 evaluation some features has been redefined. The following thi
 | 2.|Send notification features is added.|   ✅ |
 | 3.| Partitioning the data feature is completed. | ✅ |
 | 4. | Now on the view result page images, videos and audio are also added (small size) for the manual upload method so that if a user has any doubt he/she can just take a quick look from that because in manual method user  don't have any source link to the data(image, video, audio) . Also by adding this, UI becomes more attractive and clean.| ✅ |
-| 5. | Pagination for the display of annotation files | ✅ |
+| 5. | Pagination for the display of annotation files. | ✅ |
 | 6. | Pagination for the Annotation Results. | ✅ |
 | 7. | Merged the Concordance Code with the current code to provide users  to directly upload the concordance.txt for uploading data.| ✅ |
-| 8. | Changes in the Ask Admin Rights | ✅ |
-| 9. | Changes incorporated in update information form | ✅ |
-| 10. | Remove code Smells | ✅ |
+| 8. | Changes in the Ask Admin Rights. | ✅ |
+| 9. | Changes incorporated in update information form. | ✅ |
+| 10. | Remove code Smells. | ✅ |
 | 11. | Updated the requirements.txt and Installation guide.| ✅ |
 
 # [](#header-3) Progress made so far
