@@ -15,23 +15,23 @@ After the phase 2 evaluation some features has been redefined. The following thi
 
 | S. No | Features Implemented | Status  |
 |---|-----|-----|
-| 1. |Implemented changes suggested in Tagging Scheme|   ✅ |
-| 2.|Displaying a warning, If labels are changed when the annotators have started the annotation process. On the Label Page also.|   ✅ |
-| 3.| Implemented Progress Bar and Progress Status on the Annotation page. | ✅ |
-| 4. | Implemented Account Menu in nav-bar which contain Settings for Updating Information, check Progress and logout sections. | ✅ |
-| 5. | Implemented functionality to Update the Profile Information | ✅ |
-| 6. | Implemented functionality to check the progress of other annotators assigned be a user and also provide a way to check the progress of a user which is included in the experiment. | ✅ |
-| 7. | Corrected the Bug of Displaying Names when a user is added as a Owner or as an annotator. | ✅ |
-| 8. | Now the Display time can take Float values with the precision of .01 seconds. | ✅ |
-| 9. | Space Bar Cannot be used as a Key for the Annotations as it is used for pausing/playing the videos. | ✅ |
-| 10. | Registration Process is Authenticated by validating the user's email. | ✅ |
-| 11. | Forgot Password functionality is added. Now a user has to verify his email by entering an OTP sent to his email. | ✅ |
+| 1. |Delete feature for a single annotation|   ✅ |
+| 2.|Send notification features is added.|   ✅ |
+| 3.| Partitioning the data feature is completed. | ✅ |
+| 4. | Now on the view result page images, videos and audio are also added (small size) for the manual upload method so that if a user has any doubt he/she can just take a quick look from that because in manual method user  don't have any source link to the data(image, video, audio) . Also by adding this, UI becomes more attractive and clean.| ✅ |
+| 5. | Pagination for the display of annotation files | ✅ |
+| 6. | Pagination for the Annotation Results. | ✅ |
+| 7. | Merged the Concordance Code with the current code to provide users  to directly upload the concordance.txt for uploading data.| ✅ |
+| 8. | Changes in the Ask Admin Rights | ✅ |
+| 9. | Changes incorporated in update information form | ✅ |
+| 10. | Remove code Smells | ✅ |
+| 11. | Updated the requirements.txt and Installation guide.| ✅ |
 
 # [](#header-3) Progress made so far
 
-The following features has been implemented in Phase 2 till so far:
+The following features has been implemented in Final Phase till so far:
 
-* **Added support for tagging Scheme**. Now in the tagging scheme the annotation labels can be reused by the user for other experiments as well. This will save user's time a lot and provide a more comprehensible way for the annotations. Now when user click on Make global button (Description; A button for making the experiment global so that other users can import it) then a dialog box will open in which a user can put the name (global name) for all the annotation levels that a user will while importing that annotations. I have implemented the scheme in which a user can import all the annotation levels of a particular experiment. I have done this because as a User it feels so easy to just import all the annotation levels and delete one or two according to his/her comfort. If we have done this in another way like importing single annotation level then it becomes so cumbersome to import 10 annotation levels of a single experiment and later if he needs only say 8 so the user has to do same efforts as he/she would do in other method. Below Images are showing the tagging scheme
+* **Delete feature for a single annotation**. Now user can delete the annotations individually if he/she has any doubt in it. Earlier, only deleting of whole annotations feature is present. Now both are present.
   
 
     ![image](https://github.com/gulshan-mittal/GSoC19-Blog/blob/master/assets/images/tag11.png?raw=true)
