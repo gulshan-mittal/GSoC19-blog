@@ -11,7 +11,7 @@ After the phase 2 evaluation some features has been redefined. The following thi
 1. Changes in the Update Information form. Confirm password and old password field is to be added.
 2. Changes have been incorporated in the feature of Asking admin right. When the admin revoke the request of the experimenter for the admin role then the request is deleted and the user (experimenter) would again sent a request if they need admin rights.  
 
-# [](#header-2) Work Done for Evaluation 2
+# [](#header-2) Work Done for Final Evaluation
 
 | S. No | Features Implemented | Status  |
 |---|-----|-----|
@@ -85,8 +85,8 @@ The following features has been implemented in Final Phase till so far:
 
 * Implemented Changes in the Ask Admin Rights.
 
-* Remove all the code smells.
+* Remove all the **code smells**.
 
-* Updated the requirements.txt and Installation guide.
+* Updated the ``requirements.txt`` and **Installation guide**.
 
-* All the above things have implemented with the necessary feedback, warnings and error logs. 
+* All the above things have implemented with the necessary **feedback**, warnings and error logs. 
