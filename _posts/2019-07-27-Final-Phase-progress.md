@@ -90,3 +90,9 @@ The following features has been implemented in Final Phase till so far:
 * Updated the ``requirements.txt`` and **Installation guide**.
 
 * All the above things have implemented with the necessary **feedback**, warnings and error logs. 
+
+### [](#header-4) Features which have not been implemented and Why?
+
+* Displaying the annotation data randomly on the annotations page.
+    * Due to the code structure and implementation it is not possible to implement the above feature. To implement that whole code structure and implementation has to be changed.
+* Annotation in Full screen mode (**Low priority feature**). This feature does not hold good with annotation method. The reason for this is that when we press the key for annotation then full screen mode of video converts into full screen mode of whole page. Due to incorporation of major feature this feature is not implemented due to time constraint.
