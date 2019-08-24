@@ -5,7 +5,7 @@ title: "GSoc'19 Summary"
 
 GSoC’19 completed well. Thanks to my mentors who guided me along and suggested ways out of ambiguous scenarios. [View entire source code](https://github.com/gulshan-mittal/RapidAnnotator-2.0).
 
-# [](#header-3) About the Project
+# [](#header-1) About the Project
 
 Red Hen’s Rapid Annotator provides a platform to users to annotate large chunks of data in a short span of time and with least possible efforts. It provides the features of annotating images/videos/audios/text during collaborative situation also. With Red Hen Lab’s we will try to enable users to visualize the progress of each annotator separately and annotators can notify experimenter when the annotation is finished to make the annotation work more efficient.
 
@@ -24,7 +24,7 @@ By the end of Phase 1, Phase 2 and Final Phase, I had accomplished all the inten
 
 # [](#header-1) Phase 1 at a glance
 
-# [](#header-4) Work Done for Evaluation 1
+### [](#header-3) Work Done for Evaluation 1
 
 | S. No | Features Implemented | Status  |
 |---|-----|-----|
@@ -40,7 +40,7 @@ By the end of Phase 1, Phase 2 and Final Phase, I had accomplished all the inten
 
 # [](#header-1) Phase 2 at a glance
 
-# [](#header-4) Work Done for Evaluation 2
+### [](#header-3) Work Done for Evaluation 2
 
 | S. No | Features Implemented | Status  |
 |---|-----|-----|
@@ -58,7 +58,7 @@ By the end of Phase 1, Phase 2 and Final Phase, I had accomplished all the inten
 
 # [](#header-1) Final Phase at a glance
 
-# [](#header-4) Work Done for Final Evaluation
+### [](#header-3) Work Done for Final Evaluation
 
 | S. No | Features Implemented | Status  |
 |---|-----|-----|
@@ -75,7 +75,7 @@ By the end of Phase 1, Phase 2 and Final Phase, I had accomplished all the inten
 
 I have made 4 blogposts to help understand my project better at every pahse and to know what problems I faced during project & how to resolve them. They are posted on my github.io [here](https://gulshan-mittal.github.io/GSoC19-Blog/)
 
-# [](#header-1) Pull Request : Merge the codebase
+## [](#header-2) Pull Request : Merge the codebase
 
 I have made one pull request as per mentors guideline where I have merged all the code which I had wrote during GSoC period. The link to merge request can be found [here](https://github.com/RedHenLab/RapidAnnotator-2.0/pull/21).
 
